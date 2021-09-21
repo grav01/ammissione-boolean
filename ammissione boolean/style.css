@@ -1,0 +1,86 @@
+body{
+  text-align: center;
+  width: 750px;
+  margin: auto;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section{
+  border: 1px solid;
+  border:rgba(20, 20, 20, 0.6);
+  border-radius: 2%;
+  height: 90%;
+  padding: 40px;
+  background: rgba(20, 20, 20, 0.6);
+}
+header>img{
+  width: 20%;
+  margin-top: 40px;
+}
+ h1{
+   color: lime;
+ }
+.sezione1{
+  border: 10px solid lime;
+  background-color: lime;
+}
+.bottone{
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 10%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+.bottone1{
+  width: 130px;
+  border-radius: 10%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+.botton2{
+  width: 80px;
+  border-radius: 10%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+main{
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  margin-bottom: 40px;
+}
+span{
+  color: white;
+  font-size: 25px;
+}
+.via{
+  color: white;
+  font-size: 15px;
+}
+.finto{
+  color: orange;
+  background-color: orange;
+  border-radius: 10%;
+}
+.fintoo{
+  color: red;
+  background-color: red;
+  border-radius: 10%;
+}
+.fintooo{
+  color: green;
+  background-color: green;
+  border-radius: 10%;
+}
